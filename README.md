@@ -3,4 +3,5 @@
 A workshop to refresh Git and GitHub concepts before contr
 
 -   This is a bullet point
--   THis is second bullet point
+-   This is second bullet point
+-   This is a third line.
